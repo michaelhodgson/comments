@@ -21,8 +21,6 @@ class PageController extends Controller
 
     public function index()
     {
-//             $data=Comment::getComments();
-// dd($data);
         return view( 
             'page.index',
             [
