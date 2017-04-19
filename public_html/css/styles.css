@@ -1,0 +1,22 @@
+.depth1, .depth2, .depth3, .depth4 {
+	border: solid 1px #ddd;
+	padding: 15px;
+}
+.depth1 {
+	width: 800px;
+}
+.depth2 {
+	width: 760px;
+	margin-left: 40px;
+}
+.depth3 {
+	width: 720px;
+	margin-left: 80px;
+}
+.depth4 {
+	width: 680px;
+	margin-left: 120px;
+}
+.btn {
+	margin-top: 10px;
+}
